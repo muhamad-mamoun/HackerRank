@@ -6,3 +6,6 @@ This repository houses the HackerRank problems solution.
     - C++                 [in progress....]
     - SQL                 [in progress....]
     - Problem Solving     [not created yet]
+
+## My Badges
+<img src="my-badges.png"/>
