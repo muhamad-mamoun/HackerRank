@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main(void)
+{
+    int var1; long var2; char var3; float var4; double var5;
+    scanf("%d %ld %c %f %lf", &var1, &var2, &var3, &var4, &var5);
+    printf("%d\n%ld\n%c\n%f\n%lf", var1, var2, var3, var4, var5);
+    return 0;
+}
