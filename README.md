@@ -5,6 +5,7 @@ This repository houses the HackerRank problems solution.
     - C                   [in progress...  ⏳]
     - C++                 [in progress...  ⏳]
     - SQL                 [in progress...  ⏳]
+    - Python              [not created yet ❌]
     - Problem Solving     [not created yet ❌]
 
 ## My Badges
